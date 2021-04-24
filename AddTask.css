@@ -1,0 +1,21 @@
+.btn{
+    color:whitesmoke;
+    size:20px;
+    text-align: center;
+    border-radius: 5px;
+    align-content: center;
+    background-color: black;
+}
+.total{
+    color:black;
+}
+.todo{
+    color:red;
+}
+.count{
+    color:black;
+}
+.text{
+    color:black;
+}
+
